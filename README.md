@@ -69,7 +69,7 @@ event timeline with alert feed.
 ## 🚀 Quick start
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/hariprasath71811-max/neuropulse-ai.git
 cd neuropulse-ai
 pip install -r requirements.txt
 streamlit run app.py
