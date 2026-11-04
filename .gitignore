@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Demo capture artefacts
+assets/_video/
+assets/*.webm
+assets/debug_*.png
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
